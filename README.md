@@ -1,0 +1,1 @@
+my_first_auto_tests
